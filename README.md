@@ -2,12 +2,14 @@
 
 Official exports from the [College Board Educator Question Bank](https://satsuiteeducatorquestionbank.collegeboard.org/digital/results), downloaded on 8 September 2026.
 
-**Collection in progress.** SAT is complete and verified; PSAT exports are being added.
+**Collection in progress.** SAT and PSAT/NMSQT & PSAT 10 are complete and verified; PSAT 8/9 exports are being added.
 
 | Assessment | Section | Verified questions |
 |---|---|---:|
 | SAT | Reading and Writing | 1,845 |
 | SAT | Math | 1,925 |
+| PSAT/NMSQT & PSAT 10 | Reading and Writing | 1,844 |
+| PSAT/NMSQT & PSAT 10 | Math | 1,785 |
 
 PDFs include the original question IDs, assessment, section, domain, skill, difficulty, mathematical notation/figures, correct answers, and explanations. All domains and difficulties are included, and “Exclude Active Questions” is off. The site presents PSAT/NMSQT and PSAT 10 as a combined assessment.
 
